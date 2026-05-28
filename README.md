@@ -7,12 +7,6 @@ Users can create posts, like content, view public profiles, and discover trendin
 
 ---
 
-## 🚀 Live Demo
-
-> 🔗 [Coming soon — deploying on Railway]
-
----
-
 ## 📸 Screenshots
 <img width="506" height="523" alt="image" src="https://github.com/user-attachments/assets/8f56097a-c404-4555-9d2e-3937dcc8a804" />
 <img width="1841" height="940" alt="image" src="https://github.com/user-attachments/assets/b3a4dae0-c667-4906-b39f-3796aab0bf1d" />
